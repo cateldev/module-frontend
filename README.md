@@ -1,1 +1,1 @@
-# module3-frontend
+# Front-end Module studied during the Generation Brazil bootcamp
