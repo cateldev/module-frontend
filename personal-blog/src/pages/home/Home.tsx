@@ -3,10 +3,11 @@ import "./Home.css"
 
 function Home(){
     return(
+
         <>
-            <h1 className="title">Home</h1>
-            <img src="https://i.imgur.com/Fz8xWAY.gif" alt="Imagem Tela Inicial" className="img" />
+            <h1>Home</h1>
         </>
+
     );
 }
 
