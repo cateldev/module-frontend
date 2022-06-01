@@ -4,7 +4,7 @@ import { Box } from "@mui/material";
 import { Link, useNavigate } from 'react-router-dom';
 import useLocalStorage from "react-use-localstorage";
 import { login } from "../../servicos/Servicos";
-import Usuario from "../../models/User";
+import Usuario from "../../modelos/Usuario";
 import './Login.css';
 
 function Login() {
